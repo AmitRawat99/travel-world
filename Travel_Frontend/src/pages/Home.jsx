@@ -54,7 +54,7 @@ function Home() {
               <div className="image-container">
 
                 {/* Image 1 */}
-                <div className="banner-item banner-item-1">
+                <div className="banner-item  banner-item-1">
                   <img className="banner-img banner-img-1" src={banner2} alt="Banner 1" />
                 </div>
 
